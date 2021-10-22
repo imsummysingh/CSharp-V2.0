@@ -1,0 +1,16 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\ref\P001-HelloWorld.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\bin\Debug\net5.0\P001-HelloWorld.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\ref\P001-HelloWorld.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P001-HelloWorld\obj\Debug\net5.0\P001-HelloWorld.genruntimeconfig.cache
