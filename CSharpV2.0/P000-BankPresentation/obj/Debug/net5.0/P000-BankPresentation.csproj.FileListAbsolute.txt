@@ -1,0 +1,16 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\ref\P000-BankPresentation.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\bin\Debug\net5.0\P000-BankPresentation.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.csproj.AssemblyReference.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\ref\P000-BankPresentation.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P000-BankPresentation\obj\Debug\net5.0\P000-BankPresentation.genruntimeconfig.cache

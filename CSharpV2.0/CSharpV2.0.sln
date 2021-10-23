@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P009-BreakStatement", "P009
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P010-ContinueStatement", "P010-ContinueStatement\P010-ContinueStatement.csproj", "{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P000-BankPresentation", "P000-BankPresentation\P000-BankPresentation.csproj", "{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
