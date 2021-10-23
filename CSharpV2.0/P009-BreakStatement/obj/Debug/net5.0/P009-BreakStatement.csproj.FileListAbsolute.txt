@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\ref\P009-BreakStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\bin\Debug\net5.0\P009-BreakStatement.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\ref\P009-BreakStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P009-BreakStatement\obj\Debug\net5.0\P009-BreakStatement.genruntimeconfig.cache

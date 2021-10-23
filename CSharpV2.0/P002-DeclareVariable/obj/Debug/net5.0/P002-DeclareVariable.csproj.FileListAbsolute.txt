@@ -1,0 +1,16 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\ref\P002-DeclareVariable.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\bin\Debug\net5.0\P002-DeclareVariable.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.csproj.AssemblyReference.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\ref\P002-DeclareVariable.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P002-DeclareVariable\obj\Debug\net5.0\P002-DeclareVariable.genruntimeconfig.cache

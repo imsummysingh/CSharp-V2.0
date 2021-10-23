@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\ref\P010-ContinueStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\bin\Debug\net5.0\P010-ContinueStatement.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\ref\P010-ContinueStatement.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P010-ContinueStatement\obj\Debug\net5.0\P010-ContinueStatement.genruntimeconfig.cache

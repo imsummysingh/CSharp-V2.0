@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P005-SwitchCase/1.0.0": {
+        "runtime": {
+          "P005-SwitchCase.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P005-SwitchCase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

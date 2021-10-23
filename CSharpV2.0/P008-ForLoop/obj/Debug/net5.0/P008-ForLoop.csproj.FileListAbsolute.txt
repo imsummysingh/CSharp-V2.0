@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\ref\P008-ForLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\bin\Debug\net5.0\P008-ForLoop.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\ref\P008-ForLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P008-ForLoop\obj\Debug\net5.0\P008-ForLoop.genruntimeconfig.cache

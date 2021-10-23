@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\ref\P007-DoWhileLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\bin\Debug\net5.0\P007-DoWhileLoop.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\ref\P007-DoWhileLoop.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P007-DoWhileLoop\obj\Debug\net5.0\P007-DoWhileLoop.genruntimeconfig.cache

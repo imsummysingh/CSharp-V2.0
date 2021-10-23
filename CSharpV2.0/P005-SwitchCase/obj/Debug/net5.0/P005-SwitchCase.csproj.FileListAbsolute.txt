@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\ref\P005-SwitchCase.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\bin\Debug\net5.0\P005-SwitchCase.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\ref\P005-SwitchCase.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P005-SwitchCase\obj\Debug\net5.0\P005-SwitchCase.genruntimeconfig.cache

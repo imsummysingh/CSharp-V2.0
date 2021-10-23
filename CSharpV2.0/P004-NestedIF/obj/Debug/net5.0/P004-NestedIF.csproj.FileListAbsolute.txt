@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\ref\P004-NestedIF.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\bin\Debug\net5.0\P004-NestedIF.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\ref\P004-NestedIF.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P004-NestedIF\obj\Debug\net5.0\P004-NestedIF.genruntimeconfig.cache
