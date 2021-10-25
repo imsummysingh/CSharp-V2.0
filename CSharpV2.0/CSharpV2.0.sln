@@ -5,25 +5,29 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P001-HelloWorld", "P001-HelloWorld\P001-HelloWorld.csproj", "{A0AD18A5-82E4-46D2-8F2A-52B5FB11508E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P002-DeclareVariable", "P002-DeclareVariable\P002-DeclareVariable.csproj", "{C1137DA0-110B-42BD-809B-1FED7148724C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P002-DeclareVariable", "P002-DeclareVariable\P002-DeclareVariable.csproj", "{C1137DA0-110B-42BD-809B-1FED7148724C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P003-IfStatement", "P003-IfStatement\P003-IfStatement.csproj", "{F199EB20-3777-4474-9E42-1154780DE4F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P003-IfStatement", "P003-IfStatement\P003-IfStatement.csproj", "{F199EB20-3777-4474-9E42-1154780DE4F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P004-NestedIF", "P004-NestedIF\P004-NestedIF.csproj", "{A22CBDAF-616C-4C1A-8C20-04A8F7BBBC3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P004-NestedIF", "P004-NestedIF\P004-NestedIF.csproj", "{A22CBDAF-616C-4C1A-8C20-04A8F7BBBC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P005-SwitchCase", "P005-SwitchCase\P005-SwitchCase.csproj", "{92109445-F60A-4DEB-A09B-15A9D9CBC908}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P005-SwitchCase", "P005-SwitchCase\P005-SwitchCase.csproj", "{92109445-F60A-4DEB-A09B-15A9D9CBC908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P006-WhileLoop", "P006-WhileLoop\P006-WhileLoop.csproj", "{9F04201E-7FEB-4809-A6FB-3FB6B156DDFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P006-WhileLoop", "P006-WhileLoop\P006-WhileLoop.csproj", "{9F04201E-7FEB-4809-A6FB-3FB6B156DDFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P007-DoWhileLoop", "P007-DoWhileLoop\P007-DoWhileLoop.csproj", "{DB486DDC-6F7F-481C-912E-F9FB79BDAAF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P007-DoWhileLoop", "P007-DoWhileLoop\P007-DoWhileLoop.csproj", "{DB486DDC-6F7F-481C-912E-F9FB79BDAAF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P008-ForLoop", "P008-ForLoop\P008-ForLoop.csproj", "{F8E2D2E3-3937-438D-89FD-C544D4FAA9BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P008-ForLoop", "P008-ForLoop\P008-ForLoop.csproj", "{F8E2D2E3-3937-438D-89FD-C544D4FAA9BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P009-BreakStatement", "P009-BreakStatement\P009-BreakStatement.csproj", "{C7C0749A-A50A-44C0-B4C9-AB1BD8F42D24}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P009-BreakStatement", "P009-BreakStatement\P009-BreakStatement.csproj", "{C7C0749A-A50A-44C0-B4C9-AB1BD8F42D24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P010-ContinueStatement", "P010-ContinueStatement\P010-ContinueStatement.csproj", "{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P010-ContinueStatement", "P010-ContinueStatement\P010-ContinueStatement.csproj", "{14DC3124-BAE8-43CB-BF2E-F540A406B5BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P000-BankPresentation", "P000-BankPresentation\P000-BankPresentation.csproj", "{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P000-BankPresentation", "P000-BankPresentation\P000-BankPresentation.csproj", "{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P011-FieldsClassLibrary", "P011-FieldsClassLibrary\P011-FieldsClassLibrary.csproj", "{EC150BA3-8C0C-4553-BF80-8162A62A1D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P011-Fields", "P011-Fields\P011-Fields.csproj", "{5B4D2735-5F93-4510-A9FA-8E87139B2B79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +79,14 @@ Global
 		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1DF3B29-FB2D-4D97-BC9F-E9BB5A7D6109}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC150BA3-8C0C-4553-BF80-8162A62A1D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC150BA3-8C0C-4553-BF80-8162A62A1D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC150BA3-8C0C-4553-BF80-8162A62A1D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC150BA3-8C0C-4553-BF80-8162A62A1D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4D2735-5F93-4510-A9FA-8E87139B2B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4D2735-5F93-4510-A9FA-8E87139B2B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4D2735-5F93-4510-A9FA-8E87139B2B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4D2735-5F93-4510-A9FA-8E87139B2B79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

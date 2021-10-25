@@ -1,0 +1,12 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\bin\Debug\net5.0\P011-FieldsClassLibrary.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\bin\Debug\net5.0\P011-FieldsClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\bin\Debug\net5.0\ref\P011-FieldsClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\bin\Debug\net5.0\P011-FieldsClassLibrary.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\ref\P011-FieldsClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P011-FieldsClassLibrary\obj\Debug\net5.0\P011-FieldsClassLibrary.csproj.AssemblyReference.cache
