@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\ref\P013-ParamsEx.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\bin\Debug\net5.0\P013-ParamsEx.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\ref\P013-ParamsEx.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P013-ParamsEx\obj\Debug\net5.0\P013-ParamsEx.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P013-ParamsEx/1.0.0": {
+        "runtime": {
+          "P013-ParamsEx.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P013-ParamsEx/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

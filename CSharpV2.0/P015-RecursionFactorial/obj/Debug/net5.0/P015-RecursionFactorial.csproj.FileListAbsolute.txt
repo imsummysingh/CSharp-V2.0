@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\ref\P015-RecursionFactorial.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\bin\Debug\net5.0\P015-RecursionFactorial.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\ref\P015-RecursionFactorial.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P015-RecursionFactorial\obj\Debug\net5.0\P015-RecursionFactorial.genruntimeconfig.cache

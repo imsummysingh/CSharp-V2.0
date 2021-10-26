@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\ref\P012-RefReturn.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\bin\Debug\net5.0\P012-RefReturn.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\ref\P012-RefReturn.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P012-RefReturn\obj\Debug\net5.0\P012-RefReturn.genruntimeconfig.cache

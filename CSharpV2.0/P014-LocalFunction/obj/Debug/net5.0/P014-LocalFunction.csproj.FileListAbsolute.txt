@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\ref\P014-LocalFunction.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\bin\Debug\net5.0\P014-LocalFunction.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\ref\P014-LocalFunction.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P014-LocalFunction\obj\Debug\net5.0\P014-LocalFunction.genruntimeconfig.cache
