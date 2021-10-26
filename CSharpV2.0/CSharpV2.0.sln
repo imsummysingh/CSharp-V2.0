@@ -29,13 +29,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P011-FieldsClassLibrary", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P011-Fields", "P011-Fields\P011-Fields.csproj", "{5B4D2735-5F93-4510-A9FA-8E87139B2B79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P012-RefReturn", "P012-RefReturn\P012-RefReturn.csproj", "{47E790FB-4583-4515-9777-DB4818906229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P012-RefReturn", "P012-RefReturn\P012-RefReturn.csproj", "{47E790FB-4583-4515-9777-DB4818906229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P013-ParamsEx", "P013-ParamsEx\P013-ParamsEx.csproj", "{A7C3AB8D-689F-40AB-9193-904A471B04DF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P013-ParamsEx", "P013-ParamsEx\P013-ParamsEx.csproj", "{A7C3AB8D-689F-40AB-9193-904A471B04DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P014-LocalFunction", "P014-LocalFunction\P014-LocalFunction.csproj", "{CEFDC248-2F64-4A54-8F93-581E941AF81F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P014-LocalFunction", "P014-LocalFunction\P014-LocalFunction.csproj", "{CEFDC248-2F64-4A54-8F93-581E941AF81F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P015-RecursionFactorial", "P015-RecursionFactorial\P015-RecursionFactorial.csproj", "{419218D4-B434-4D44-BDAC-99C4A4CABC6B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P015-RecursionFactorial", "P015-RecursionFactorial\P015-RecursionFactorial.csproj", "{419218D4-B434-4D44-BDAC-99C4A4CABC6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P016-ImplicitConversion", "P016-ImplicitConversion\P016-ImplicitConversion.csproj", "{F8249448-05C5-4917-8147-01685B63B0C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P017-ExplicitCasting", "P017-ExplicitCasting\P017-ExplicitCasting.csproj", "{DF7AEA68-44B8-4D6E-AD6E-32331BEC748C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P018-Parsing", "P018-Parsing\P018-Parsing.csproj", "{FED1F15E-6D4B-4E1B-9364-F8516E3CE5E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P019-TryParse", "P019-TryParse\P019-TryParse.csproj", "{3DF248F9-3E2B-473E-B0B5-87F202887419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P020-ConversionMethod", "P020-ConversionMethod\P020-ConversionMethod.csproj", "{39B8CDBE-A962-43ED-9C40-7D347413AC68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +121,26 @@ Global
 		{419218D4-B434-4D44-BDAC-99C4A4CABC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{419218D4-B434-4D44-BDAC-99C4A4CABC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{419218D4-B434-4D44-BDAC-99C4A4CABC6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8249448-05C5-4917-8147-01685B63B0C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8249448-05C5-4917-8147-01685B63B0C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8249448-05C5-4917-8147-01685B63B0C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8249448-05C5-4917-8147-01685B63B0C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF7AEA68-44B8-4D6E-AD6E-32331BEC748C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF7AEA68-44B8-4D6E-AD6E-32331BEC748C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF7AEA68-44B8-4D6E-AD6E-32331BEC748C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF7AEA68-44B8-4D6E-AD6E-32331BEC748C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED1F15E-6D4B-4E1B-9364-F8516E3CE5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED1F15E-6D4B-4E1B-9364-F8516E3CE5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED1F15E-6D4B-4E1B-9364-F8516E3CE5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED1F15E-6D4B-4E1B-9364-F8516E3CE5E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DF248F9-3E2B-473E-B0B5-87F202887419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DF248F9-3E2B-473E-B0B5-87F202887419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DF248F9-3E2B-473E-B0B5-87F202887419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DF248F9-3E2B-473E-B0B5-87F202887419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39B8CDBE-A962-43ED-9C40-7D347413AC68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B8CDBE-A962-43ED-9C40-7D347413AC68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B8CDBE-A962-43ED-9C40-7D347413AC68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B8CDBE-A962-43ED-9C40-7D347413AC68}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

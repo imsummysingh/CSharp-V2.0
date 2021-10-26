@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\ref\P018-Parsing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\bin\Debug\net5.0\P018-Parsing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\ref\P018-Parsing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P018-Parsing\obj\Debug\net5.0\P018-Parsing.genruntimeconfig.cache

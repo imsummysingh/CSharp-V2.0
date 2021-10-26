@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\ref\P016-ImplicitConversion.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\bin\Debug\net5.0\P016-ImplicitConversion.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\ref\P016-ImplicitConversion.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P016-ImplicitConversion\obj\Debug\net5.0\P016-ImplicitConversion.genruntimeconfig.cache

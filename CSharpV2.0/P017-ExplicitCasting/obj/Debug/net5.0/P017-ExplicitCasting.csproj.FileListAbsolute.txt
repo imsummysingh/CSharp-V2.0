@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\ref\P017-ExplicitCasting.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\bin\Debug\net5.0\P017-ExplicitCasting.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\ref\P017-ExplicitCasting.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P017-ExplicitCasting\obj\Debug\net5.0\P017-ExplicitCasting.genruntimeconfig.cache

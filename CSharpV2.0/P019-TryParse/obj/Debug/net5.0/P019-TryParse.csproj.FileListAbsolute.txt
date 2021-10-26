@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\ref\P019-TryParse.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\bin\Debug\net5.0\P019-TryParse.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\ref\P019-TryParse.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P019-TryParse\obj\Debug\net5.0\P019-TryParse.genruntimeconfig.cache

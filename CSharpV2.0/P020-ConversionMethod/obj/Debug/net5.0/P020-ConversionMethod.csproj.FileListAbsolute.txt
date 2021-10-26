@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\ref\P020-ConversionMethod.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\bin\Debug\net5.0\P020-ConversionMethod.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\ref\P020-ConversionMethod.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P020-ConversionMethod\obj\Debug\net5.0\P020-ConversionMethod.genruntimeconfig.cache

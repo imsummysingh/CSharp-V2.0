@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P019-TryParse/1.0.0": {
+        "runtime": {
+          "P019-TryParse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P019-TryParse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
