@@ -1,0 +1,12 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\bin\Debug\net5.0\P021-IndexersLibrary.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\bin\Debug\net5.0\P021-IndexersLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\bin\Debug\net5.0\ref\P021-IndexersLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\bin\Debug\net5.0\P021-IndexersLibrary.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.csproj.AssemblyReference.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\ref\P021-IndexersLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P021-IndexersLibrary\obj\Debug\net5.0\P021-IndexersLibrary.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P021-Indexers/1.0.0": {
+        "dependencies": {
+          "P021-IndexersLibrary": "1.0.0"
+        },
+        "runtime": {
+          "P021-Indexers.dll": {}
+        }
+      },
+      "P021-IndexersLibrary/1.0.0": {
+        "runtime": {
+          "P021-IndexersLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P021-Indexers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "P021-IndexersLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

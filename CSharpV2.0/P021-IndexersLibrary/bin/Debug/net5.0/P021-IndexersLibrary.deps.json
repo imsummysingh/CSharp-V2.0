@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P021-IndexersLibrary/1.0.0": {
+        "runtime": {
+          "P021-IndexersLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P021-IndexersLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
