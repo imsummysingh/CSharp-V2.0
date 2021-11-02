@@ -1,0 +1,16 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\ref\P025-Structure.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\bin\Debug\net5.0\P025-Structure.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\ref\P025-Structure.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.genruntimeconfig.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P025-Structure\obj\Debug\net5.0\P025-Structure.csproj.AssemblyReference.cache
