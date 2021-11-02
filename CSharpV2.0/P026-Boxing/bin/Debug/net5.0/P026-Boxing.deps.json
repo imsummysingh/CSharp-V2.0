@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P026-Boxing/1.0.0": {
+        "runtime": {
+          "P026-Boxing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P026-Boxing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

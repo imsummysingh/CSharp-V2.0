@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\ref\P027-UnBoxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\bin\Debug\net5.0\P027-UnBoxing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\ref\P027-UnBoxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P027-UnBoxing\obj\Debug\net5.0\P027-UnBoxing.genruntimeconfig.cache

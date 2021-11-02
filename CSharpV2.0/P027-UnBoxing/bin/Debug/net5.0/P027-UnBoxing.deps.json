@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P027-UnBoxing/1.0.0": {
+        "runtime": {
+          "P027-UnBoxing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P027-UnBoxing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

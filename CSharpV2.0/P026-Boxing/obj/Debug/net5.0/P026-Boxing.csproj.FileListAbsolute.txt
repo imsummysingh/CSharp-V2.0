@@ -1,0 +1,15 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.exe
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.runtimeconfig.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.runtimeconfig.dev.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\ref\P026-Boxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\bin\Debug\net5.0\P026-Boxing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\ref\P026-Boxing.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P026-Boxing\obj\Debug\net5.0\P026-Boxing.genruntimeconfig.cache
