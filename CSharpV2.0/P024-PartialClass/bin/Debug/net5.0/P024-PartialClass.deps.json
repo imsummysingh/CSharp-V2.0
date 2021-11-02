@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P024-PartialClass/1.0.0": {
+        "dependencies": {
+          "P024-PartialClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "P024-PartialClass.dll": {}
+        }
+      },
+      "P024-PartialClassLibrary/1.0.0": {
+        "runtime": {
+          "P024-PartialClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P024-PartialClass/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "P024-PartialClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

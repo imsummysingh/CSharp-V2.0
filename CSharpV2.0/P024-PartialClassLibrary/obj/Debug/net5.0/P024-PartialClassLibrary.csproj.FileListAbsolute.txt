@@ -1,0 +1,11 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\bin\Debug\net5.0\P024-PartialClassLibrary.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\bin\Debug\net5.0\P024-PartialClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\bin\Debug\net5.0\ref\P024-PartialClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\bin\Debug\net5.0\P024-PartialClassLibrary.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\ref\P024-PartialClassLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P024-PartialClassLibrary\obj\Debug\net5.0\P024-PartialClassLibrary.pdb
