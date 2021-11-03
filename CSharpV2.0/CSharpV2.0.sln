@@ -55,15 +55,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P022-MethodHiding", "P022-M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P023-MethodOverriding", "P023-MethodOverriding\P023-MethodOverriding.csproj", "{72D6EF17-D374-4278-B869-ABF8866E9F4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P024-PartialClassLibrary", "P024-PartialClassLibrary\P024-PartialClassLibrary.csproj", "{9FF08570-8D03-4041-A31F-AB3464F583B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P024-PartialClassLibrary", "P024-PartialClassLibrary\P024-PartialClassLibrary.csproj", "{9FF08570-8D03-4041-A31F-AB3464F583B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P024-PartialClass", "P024-PartialClass\P024-PartialClass.csproj", "{DC18F3CA-6898-4B3B-A077-E64575E323F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P024-PartialClass", "P024-PartialClass\P024-PartialClass.csproj", "{DC18F3CA-6898-4B3B-A077-E64575E323F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P025-Structure", "P025-Structure\P025-Structure.csproj", "{E768930F-1BF5-4A7C-BC33-958A40B38742}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P025-Structure", "P025-Structure\P025-Structure.csproj", "{E768930F-1BF5-4A7C-BC33-958A40B38742}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P026-Boxing", "P026-Boxing\P026-Boxing.csproj", "{730DC088-E352-4E3F-AEBF-07BF2A1D01AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P026-Boxing", "P026-Boxing\P026-Boxing.csproj", "{730DC088-E352-4E3F-AEBF-07BF2A1D01AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P027-UnBoxing", "P027-UnBoxing\P027-UnBoxing.csproj", "{22070DAD-CCC2-44EC-B953-96E2CB16EB89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P027-UnBoxing", "P027-UnBoxing\P027-UnBoxing.csproj", "{22070DAD-CCC2-44EC-B953-96E2CB16EB89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P028-ExtensionMethodLibrary", "P028-ExtensionMethodLibrary\P028-ExtensionMethodLibrary.csproj", "{4A67C9A4-3B46-46CA-A192-65633B03652A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P028-ExtensionMethod", "P028-ExtensionMethod\P028-ExtensionMethod.csproj", "{7B0F84C0-1833-4071-85DA-08033EB93429}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +199,14 @@ Global
 		{22070DAD-CCC2-44EC-B953-96E2CB16EB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22070DAD-CCC2-44EC-B953-96E2CB16EB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22070DAD-CCC2-44EC-B953-96E2CB16EB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A67C9A4-3B46-46CA-A192-65633B03652A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A67C9A4-3B46-46CA-A192-65633B03652A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A67C9A4-3B46-46CA-A192-65633B03652A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A67C9A4-3B46-46CA-A192-65633B03652A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B0F84C0-1833-4071-85DA-08033EB93429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B0F84C0-1833-4071-85DA-08033EB93429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B0F84C0-1833-4071-85DA-08033EB93429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B0F84C0-1833-4071-85DA-08033EB93429}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

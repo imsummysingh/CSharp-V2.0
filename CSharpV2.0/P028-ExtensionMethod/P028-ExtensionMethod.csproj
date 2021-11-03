@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>P028_ExtensionMethod</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\P028-ExtensionMethodLibrary\P028-ExtensionMethodLibrary.csproj" />
+  </ItemGroup>
+
+</Project>

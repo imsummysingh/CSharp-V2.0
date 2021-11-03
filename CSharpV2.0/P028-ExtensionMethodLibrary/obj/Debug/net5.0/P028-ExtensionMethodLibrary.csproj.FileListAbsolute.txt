@@ -1,0 +1,11 @@
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\bin\Debug\net5.0\P028-ExtensionMethodLibrary.deps.json
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\bin\Debug\net5.0\P028-ExtensionMethodLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\bin\Debug\net5.0\ref\P028-ExtensionMethodLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\bin\Debug\net5.0\P028-ExtensionMethodLibrary.pdb
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.AssemblyInfoInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.AssemblyInfo.cs
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.csproj.CoreCompileInputs.cache
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\ref\P028-ExtensionMethodLibrary.dll
+C:\Users\summykumarsingh\Desktop\Core\C-Sharp\CSharpV2.0\P028-ExtensionMethodLibrary\obj\Debug\net5.0\P028-ExtensionMethodLibrary.pdb

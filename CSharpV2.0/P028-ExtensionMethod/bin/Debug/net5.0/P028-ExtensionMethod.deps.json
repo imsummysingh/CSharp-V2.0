@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "P028-ExtensionMethod/1.0.0": {
+        "dependencies": {
+          "P028-ExtensionMethodLibrary": "1.0.0"
+        },
+        "runtime": {
+          "P028-ExtensionMethod.dll": {}
+        }
+      },
+      "P028-ExtensionMethodLibrary/1.0.0": {
+        "runtime": {
+          "P028-ExtensionMethodLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "P028-ExtensionMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "P028-ExtensionMethodLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
